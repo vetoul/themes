@@ -1,5 +1,5 @@
 {
-  "name": "vt",
+  "name": DDB",
   "description": "theme3",
   "spec": "2",
   "authors": [
@@ -10,67 +10,67 @@
   ],
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#aa00ff",
-      "#000000"
-    ],
-    "HEADER_SECONDARY": [
-      "#aa00ff",
-      "#000000"
-    ],
-    "TEXT_NORMAL": [
-      "#aa00ff",
-      "#000000"
-    ],
-    "TEXT_MUTED": [
-      "#aa00ff",
-      "#000000"
-    ],
-    "TEXT_LINK": [
       "#00FFFF",
       "#000000"
     ],
+    "HEADER_SECONDARY": [
+      "#00FFFF",
+      "#000000"
+    ],
+    "TEXT_NORMAL": [
+      "#00FFFF",
+      "#000000"
+    ],
+    "TEXT_MUTED": [
+      "#00FFFF",
+      "#000000"
+    ],
+    "TEXT_LINK": [
+      "#5EDD5F",
+      "#000000"
+    ],
     "INTERACTIVE_NORMAL": [
-      "#aa00ff",
+      "#00FFFF",
       "#000000"
     ],
     "INTERACTIVE_HOVER": [
-      "#aa00ff",
+      "#00FFFF",
       "#000000"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#aa00ff",
+      "#00FFFF",
       "#000000"
     ],
     "INTERACTIVE_MUTED": [
-      "#aa00ff",
+      "#00FFFF",
       "#000000"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000000",
+      "#0b091d",
       "#000000"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000",
+      "#0b091d",
       "#000000"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#000000",
+      "#0b091d",
       "#000000"
     ],
     "BACKGROUND_TERTIARY": [
-      "#000000",
+      "#0b091d",
       "#000000"
     ],
     "BACKGROUND_ACCENT": [
-      "#000000",
-      "#000000"
+      "#1c2c5c",
+      "#1c2c5c"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000",
+      "#0b091d",
       "#000000"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000",
+      "#0b091d",
       "#000000"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
